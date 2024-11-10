@@ -10,8 +10,8 @@ The solution is powered by a Long Short-Term Memory (LSTM) neural network, which
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8d9af2b2-e635-413f-9b05-cdc2ee628fa1" alt="n 1" width="900"/>
-    <img src="https://github.com/user-attachments/assets/69971ead-1dcb-4e8e-9c31-f64440d4c1dc" alt="n 2" width="500"/>
-    <img src="https://github.com/user-attachments/assets/c8f1e095-a341-42a2-b0da-e4a973c92581" alt="n 3" width="500"/>
+    <img src="https://github.com/user-attachments/assets/69971ead-1dcb-4e8e-9c31-f64440d4c1dc" alt="n 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/c8f1e095-a341-42a2-b0da-e4a973c92581" alt="n 3" width="400"/>
 </div>
 
 ## 📂 Datasets Used
